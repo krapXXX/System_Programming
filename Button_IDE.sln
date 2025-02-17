@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Button_IDE", "Button_IDE\Button_IDE.vcxproj", "{EA068C3E-81B0-4698-B657-468B5F419FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA068C3E-81B0-4698-B657-468B5F419FC5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA068C3E-81B0-4698-B657-468B5F419FC5}.Debug|Win32.Build.0 = Debug|Win32
+		{EA068C3E-81B0-4698-B657-468B5F419FC5}.Release|Win32.ActiveCfg = Release|Win32
+		{EA068C3E-81B0-4698-B657-468B5F419FC5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {983EE3DF-93F4-42EB-A55E-3885D78D107D}
+	EndGlobalSection
+EndGlobal

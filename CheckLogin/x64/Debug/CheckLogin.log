@@ -1,0 +1,3 @@
+﻿  CheckLogin.cpp
+C:\Users\arina\source\repos\CheckLogin\CheckLogin\CheckLogin.cpp(10,9): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+  CheckLogin.vcxproj -> C:\Users\arina\source\repos\CheckLogin\x64\Debug\CheckLogin.exe

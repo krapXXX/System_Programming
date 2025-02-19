@@ -1,0 +1,3 @@
+﻿  WindowsProject6.cpp
+C:\Users\arina\source\repos\WindowsProject6\WindowsProject6\WindowsProject6.cpp(10,9): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+  WindowsProject6.vcxproj -> C:\Users\arina\source\repos\WindowsProject6\x64\Debug\WindowsProject6.exe

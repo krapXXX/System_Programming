@@ -1,0 +1,3 @@
+﻿  TicTac.cpp
+C:\Users\arina\source\repos\TicTac\TicTac\TicTac.cpp(13,9): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+  TicTac.vcxproj -> C:\Users\arina\source\repos\TicTac\x64\Debug\TicTac.exe

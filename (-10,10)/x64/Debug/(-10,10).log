@@ -1,0 +1,7 @@
+﻿  (-10,10).cpp
+C:\Users\KrapX_me98\Downloads\(-10,10)\(-10,10)\(-10,10).cpp(12,9): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\KrapX_me98\Downloads\(-10,10)\(-10,10)\(-10,10).cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\KrapX_me98\Downloads\(-10,10)\(-10,10)\(-10,10).cpp(32,13): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\KrapX_me98\Downloads\(-10,10)\(-10,10)\(-10,10).cpp(50,13): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\KrapX_me98\Downloads\(-10,10)\(-10,10)\(-10,10).cpp(71,13): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  (-10,10).vcxproj -> C:\Users\KrapX_me98\Downloads\(-10,10)\x64\Debug\(-10,10).exe

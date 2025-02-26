@@ -1,0 +1,8 @@
+﻿  ComboBox.cpp
+C:\Users\arina\source\repos\ComboBox\ComboBox\ComboBox.cpp(23,12): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\arina\source\repos\ComboBox\ComboBox\ComboBox.cpp(50,28): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\arina\source\repos\ComboBox\ComboBox\ComboBox.cpp(54,43): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\arina\source\repos\ComboBox\ComboBox\ComboBox.cpp(60,40): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\arina\source\repos\ComboBox\ComboBox\ComboBox.cpp(61,38): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\arina\source\repos\ComboBox\ComboBox\ComboBox.cpp(62,39): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+  ComboBox.vcxproj -> C:\Users\arina\source\repos\ComboBox\x64\Debug\ComboBox.exe

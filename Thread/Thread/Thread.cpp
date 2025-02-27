@@ -58,24 +58,15 @@ BOOL CALLBACK DlgProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
             EndDialog(hWnd, 0);
             return TRUE;
         }
-        return TRUE;
-    case WM_LBUTTONDOWN: 
-    {
-        HWND hStatic = GetDlgItem(hWnd, IDC_STATIC);
-        RECT rect;
-        GetWindowRect(hStatic, &rect);
-
-        POINT pt;
-        GetCursorPos(&pt);
-
-        if (PtInRect(&rect, pt)) 
+        if (wParam == IDC_BUTTON2)
         {
-            CreateThread(NULL, 0, THREAD1, NULL, 0, NULL);
+ CreateThread(NULL, 0, THREAD1, NULL, 0, NULL);
             CreateThread(NULL, 0, THREAD2, NULL, 0, NULL);
             CreateThread(NULL, 0, THREAD3, NULL, 0, NULL);
+            return TRUE;
         }
         return TRUE;
-    }
+  
     case WM_SHOWWINDOW:
         return TRUE;
     case WM_CLOSE:

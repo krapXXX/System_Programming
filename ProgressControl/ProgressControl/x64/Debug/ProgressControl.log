@@ -1,0 +1,4 @@
+﻿  ProgressControlDlg.cpp
+C:\Users\arina\source\repos\ProgressControl\ProgressControl\ProgressControlDlg.cpp(36,19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\arina\source\repos\ProgressControl\ProgressControl\ProgressControlDlg.cpp(60,20): warning C4244: 'initializing': conversion from 'std::streamsize' to 'int', possible loss of data
+  ProgressControl.vcxproj -> C:\Users\arina\source\repos\ProgressControl\x64\Debug\ProgressControl.exe

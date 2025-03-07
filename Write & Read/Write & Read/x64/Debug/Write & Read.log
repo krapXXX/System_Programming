@@ -1,0 +1,4 @@
+﻿  Write&ReadDlg.cpp
+C:\Users\arina\source\repos\Write & Read\Write & Read\Write&ReadDlg.cpp(28,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\arina\source\repos\Write & Read\Write & Read\Write&ReadDlg.cpp(66,19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Write & Read.vcxproj -> C:\Users\arina\source\repos\Write & Read\x64\Debug\Write & Read.exe

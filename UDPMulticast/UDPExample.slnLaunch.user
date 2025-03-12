@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "UDPExample\\UDPExample.vcxproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "UDPClient\\UDPClient.vcxproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

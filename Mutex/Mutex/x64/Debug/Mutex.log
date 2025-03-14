@@ -1,0 +1,3 @@
+﻿  ParentMutex.cpp
+C:\Users\arina\source\repos\Mutex\Mutex\ParentMutex.cpp(10,12): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+  Mutex.vcxproj -> C:\Users\arina\source\repos\Mutex\x64\Debug\ParentMutex.exe
